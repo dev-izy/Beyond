@@ -1,0 +1,31 @@
+# BEYOND
+
+> BEYOND is a Lagos, Nigeria-based company of skilled professionals that designs and builds websites, web applications, custom software, UI/UX design and AI-powered automation for businesses, startups, organizations and professionals. Tagline: "Transforming services. Creating value. Making impact."
+
+BEYOND currently operates its Technology & Digital Solutions division. A Creative & Digital division is expanding, and further divisions will be introduced only when they are operational.
+
+Mission: BEYOND exists to transform services into solutions, and solutions into lasting impact.
+Vision: To build a world where individuals and businesses create meaningful impact, achieve purposeful fulfillment, and attain sustainable prosperity through innovation, collaboration, and enterprise.
+Values: Purpose, Excellence, Integrity, Collaboration, Innovation, Growth, Mutual Success.
+
+## Services (available now)
+
+- [Website Development](https://www.example.com/services#website-development): Fast, responsive, SEO-ready company websites and landing pages with a CMS.
+- [Web Applications](https://www.example.com/services#web-applications): Secure, scalable web apps, portals and dashboards.
+- [Software Development](https://www.example.com/services#software-development): Custom business software, APIs and integrations.
+- [UI/UX Design](https://www.example.com/services#ui-ux-design): Research-led product and interface design, prototypes and design systems.
+- [AI Integration & Automation](https://www.example.com/services#ai-integration-automation): AI assistants for websites and WhatsApp, workflow automation and AI features.
+
+## Pages
+
+- [About](https://www.example.com/about): Who BEYOND is, mission, vision, values and division roadmap.
+- [Projects](https://www.example.com/projects): Case studies with problem, solution, technologies and measurable results.
+- [Team](https://www.example.com/team): Professionals officially active in BEYOND's operating structure.
+- [Partnerships](https://www.example.com/partnerships): Referral, delivery and strategic partnerships.
+- [Contact](https://www.example.com/contact): Project enquiry form, WhatsApp, email and phone.
+
+## Contact
+
+- Email: hello@[company-domain]
+- WhatsApp / Phone: +234 000 000 0000
+- Location: Lagos, Nigeria
